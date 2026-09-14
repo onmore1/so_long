@@ -12,6 +12,7 @@ A small 2D adventure game built for **42 School** using [MLX42](https://github.c
 ## Map Format
 
 Maps are plain-text `.ber` files composed of the following characters:
+*there is one map for you to test in maps folder
 
 | Character | Meaning |
 | --- | --- |
