@@ -9,8 +9,6 @@ A small 2D adventure game built for **42 School** using [MLX42](https://github.c
 - Every valid move is counted and printed to the terminal.
 - Collect **all coins** to unlock the exit, then step onto it to win.
 
-![demo](assets/idle/idle1.png)
-
 ## Map Format
 
 Maps are plain-text `.ber` files composed of the following characters:
